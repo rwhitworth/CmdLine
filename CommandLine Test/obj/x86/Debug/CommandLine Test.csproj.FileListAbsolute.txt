@@ -1,0 +1,11 @@
+C:\Users\lithron\documents\visual studio 2010\Projects\CommandLine Test\CommandLine Test\bin\Debug\CommandLine Test.exe
+C:\Users\lithron\documents\visual studio 2010\Projects\CommandLine Test\CommandLine Test\bin\Debug\CommandLine Test.pdb
+C:\Users\lithron\documents\visual studio 2010\Projects\CommandLine Test\CommandLine Test\bin\Debug\CmdLine.dll
+C:\Users\lithron\documents\visual studio 2010\Projects\CommandLine Test\CommandLine Test\bin\Debug\CmdLine.pdb
+C:\Users\lithron\documents\visual studio 2010\Projects\CommandLine Test\CommandLine Test\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\lithron\documents\visual studio 2010\Projects\CommandLine Test\CommandLine Test\obj\x86\Debug\CommandLine_Test.Form1.resources
+C:\Users\lithron\documents\visual studio 2010\Projects\CommandLine Test\CommandLine Test\obj\x86\Debug\CommandLine_Test.Properties.Resources.resources
+C:\Users\lithron\documents\visual studio 2010\Projects\CommandLine Test\CommandLine Test\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\lithron\documents\visual studio 2010\Projects\CommandLine Test\CommandLine Test\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\lithron\documents\visual studio 2010\Projects\CommandLine Test\CommandLine Test\obj\x86\Debug\CommandLine Test.exe
+C:\Users\lithron\documents\visual studio 2010\Projects\CommandLine Test\CommandLine Test\obj\x86\Debug\CommandLine Test.pdb

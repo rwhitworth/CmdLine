@@ -1,0 +1,5 @@
+C:\Users\lithron\documents\visual studio 2010\Projects\CommandLine Test\CmdLine\bin\Release\CmdLine.dll
+C:\Users\lithron\documents\visual studio 2010\Projects\CommandLine Test\CmdLine\bin\Release\CmdLine.pdb
+C:\Users\lithron\documents\visual studio 2010\Projects\CommandLine Test\CmdLine\obj\Release\ResolveAssemblyReference.cache
+C:\Users\lithron\documents\visual studio 2010\Projects\CommandLine Test\CmdLine\obj\Release\CmdLine.dll
+C:\Users\lithron\documents\visual studio 2010\Projects\CommandLine Test\CmdLine\obj\Release\CmdLine.pdb
